@@ -1,0 +1,134 @@
+id_contrato;id_cliente;servicio;fecha_alta;fecha_baja;estado;permanencia_meses;comercial
+S2001;C1001;Soporte puesto de trabajo;2021-06-25;;activo;12;Sergio Pardo
+S2002;C1001;Videovigilancia;2023-02-25;;activo;36;Sergio Pardo
+S2003;C1002;Videovigilancia;2020-11-13;;activo;24;Ana Ruiz
+S2004;C1002;Conectividad fibra;2022-04-04;2026-05-13;activo;24;Ana Ruiz
+S2005;C1002;Backup gestionado;2023-11-13;2025-04-26;baja;36;Ana Ruiz
+S2006;C1003;Ciberseguridad gestionada;2020-01-14;;activo;0;Sergio Pardo
+S2007;C1003;Videovigilancia;2021-07-28;;activo;12;Sergio Pardo
+S2008;C1004;Ciberseguridad gestionada;2022-04-28;;activo;24;Sergio Pardo
+S2009;C1004;Soporte puesto de trabajo;2024-04-06;;activo;24;Sergio Pardo
+S2010;C1004;Mantenimiento informatico;2023-12-06;;activo;36;Sergio Pardo
+S2011;C1005;Telefonia IP;2023-02-03;;activo;12;Sergio Pardo
+S2012;C1005;Soporte puesto de trabajo;05/11/2020;;activo;24;Sergio Pardo
+S2013;C1005;Mantenimiento informatico;2022-01-27;;activo;24;Sergio Pardo
+S2014;C1005;Videovigilancia;2024-11-30;;activo;24;Sergio Pardo
+S2015;C1006;Ciberseguridad gestionada;2024-10-30;;activo;12;Sergio Pardo
+S2016;C1006;Telefonia IP;2023-01-28;2025-11-07;baja;36;Sergio Pardo
+S2017;C1006;Conectividad fibra;2023-05-17;;suspendido;12;Sergio Pardo
+S2018;C1006;Soporte puesto de trabajo;2025-06-01;;activo;36;Sergio Pardo
+S2019;C1007;Videovigilancia;2020-11-09;2020-09-25;baja;24;Lucia Ferrer
+S2020;C1007;Ciberseguridad gestionada;2023-09-01;;activo;0;Lucia Ferrer
+S2021;C1007;Backup gestionado;2025-12-08;;activo;12;Lucia Ferrer
+S2022;C1008;Mantenimiento informatico;2021-08-11;;activo;36;Sergio Pardo
+S2023;C1008;Telefonia IP;2023-11-01;;activo;36;Sergio Pardo
+S2024;C1008;Videovigilancia;2022-08-10;2025-11-21;baja;0;Sergio Pardo
+S2025;C1009;Mantenimiento informatico;2022-01-16;;activo;24;Ana Ruiz
+S2026;C1009;Telefonia IP;2022-10-24;;suspendido;24;Ana Ruiz
+S2027;C1010;Backup gestionado;2021-03-22;;activo;36;Ana Ruiz
+S2028;C1010;Conectividad fibra;22/10/2023;;activo;36;Ana Ruiz
+S2029;C1011;Ciberseguridad gestionada;14/06/2023;;activo;24;Sergio Pardo
+S2030;C1012;Ciberseguridad gestionada;2021-06-03;;activo;0;Sergio Pardo
+S2031;C1012;Videovigilancia;2021-11-06;;activo;12;Sergio Pardo
+S2032;C1012;Mantenimiento informatico;2020-01-06;;activo;12;Sergio Pardo
+S2033;C1013;Videovigilancia;2020-09-04;;activo;12;Sergio Pardo
+S2034;C1014;Backup gestionado;21/04/2022;;activo;24;Sergio Pardo
+S2035;C1014;Telefonia IP;2023-07-12;;activo;12;Sergio Pardo
+S2036;C1014;Conectividad fibra;2024-07-25;;activo;24;Sergio Pardo
+S2037;C1015;Ciberseguridad gestionada;2021-01-08;;activo;24;Sergio Pardo
+S2038;C1015;Telefonia IP;2020-02-01;;activo;24;Sergio Pardo
+S2039;C1015;Backup gestionado;2023-10-10;;activo;24;Sergio Pardo
+S2040;C1016;Conectividad fibra;2025-02-04;;activo;12;Sergio Pardo
+S2041;C1016;Backup gestionado;2024-12-04;;activo;24;Sergio Pardo
+S2042;C1016;Soporte puesto de trabajo;2021-04-11;;activo;0;Sergio Pardo
+S2043;C1017;Backup gestionado;2020-11-22;;activo;0;Sergio Pardo
+S2044;C1017;Conectividad fibra;2024-03-23;;activo;0;Sergio Pardo
+S2045;C1017;Mantenimiento informatico;2021-10-28;;activo;24;Sergio Pardo
+S2046;C1018;Telefonia IP;2024-09-17;;suspendido;12;Lucia Ferrer
+S2047;C1019;Backup gestionado;2020-08-11;;activo;0;Sergio Pardo
+S2048;C1019;Telefonia IP;2024-12-13;;activo;24;Sergio Pardo
+S2049;C1020;Telefonia IP;17/04/2024;;suspendido;36;Ana Ruiz
+S2050;C1020;Videovigilancia;2024-04-20;;activo;12;Ana Ruiz
+S2051;C1021;Backup gestionado;2022-06-27;;activo;24;Ana Ruiz
+S2052;C1021;Videovigilancia;2023-01-13;;activo;12;Ana Ruiz
+S2053;C1022;Conectividad fibra;2020-03-24;;activo;24;Ana Ruiz
+S2054;C1022;Videovigilancia;2020-01-14;2025-08-29;baja;0;Ana Ruiz
+S2055;C1022;Ciberseguridad gestionada;2023-11-20;2025-08-13;baja;36;Ana Ruiz
+S2056;C1023;Mantenimiento informatico;2023-08-08;;activo;0;Ana Ruiz
+S2057;C1023;Telefonia IP;2024-12-21;;activo;12;Ana Ruiz
+S2058;C1023;Backup gestionado;2022-03-11;;activo;24;Ana Ruiz
+S2059;C1024;Soporte puesto de trabajo;2021-01-10;2026-07-18;baja;24;Sergio Pardo
+S2060;C1024;Telefonia IP;2020-03-16;;activo;12;Sergio Pardo
+S2061;C1024;Conectividad fibra;2024-08-21;;activo;24;Sergio Pardo
+S2062;C1024;Ciberseguridad gestionada;2023-09-19;;activo;24;Sergio Pardo
+S2063;C1025;Conectividad fibra;2023-06-15;;activo;12;Ana Ruiz
+S2064;C1025;Mantenimiento informatico;2024-04-22;2025-08-08;baja;0;Ana Ruiz
+S2065;C1026;Telefonia IP;2021-12-08;2025-05-09;baja;36;Lucia Ferrer
+S2066;C1027;Soporte puesto de trabajo;2021-02-20;2025-07-06;baja;12;Sergio Pardo
+S2067;C1027;Conectividad fibra;2024-12-18;2026-05-05;baja;12;Sergio Pardo
+S2068;C1028;Ciberseguridad gestionada;22/01/2020;2026-03-26;baja;0;Ana Ruiz
+S2069;C1028;Telefonia IP;2023-10-28;2026-05-02;baja;12;Ana Ruiz
+S2070;C1029;Soporte puesto de trabajo;2021-06-24;;activo;0;Sergio Pardo
+S2071;C1029;Backup gestionado;2020-10-07;;activo;36;Sergio Pardo
+S2072;C1029;Conectividad fibra;2021-05-26;;activo;12;Sergio Pardo
+S2073;C1029;Mantenimiento informatico;2024-02-02;;suspendido;12;Sergio Pardo
+S2074;C1030;Conectividad fibra;2025-12-05;;activo;12;Ana Ruiz
+S2075;C1030;Soporte puesto de trabajo;2022-12-25;;activo;36;Ana Ruiz
+S2076;C1031;Ciberseguridad gestionada;2023-02-17;;activo;12;Ana Ruiz
+S2077;C1031;Videovigilancia;2024-09-01;2026-01-08;baja;36;Ana Ruiz
+S2078;C1031;Conectividad fibra;2021-08-14;2026-04-18;baja;24;Ana Ruiz
+S2079;C1032;Backup gestionado;2023-10-16;;activo;36;Lucia Ferrer
+S2080;C1032;Videovigilancia;2024-05-04;;activo;24;Lucia Ferrer
+S2081;C1033;Backup gestionado;11/06/2023;;activo;12;Sergio Pardo
+S2082;C1033;Videovigilancia;2022-12-08;;activo;24;Sergio Pardo
+S2083;C1034;Videovigilancia;2020-09-17;;activo;12;Ana Ruiz
+S2084;C1034;Soporte puesto de trabajo;2023-11-16;;activo;36;Ana Ruiz
+S2085;C1035;Ciberseguridad gestionada;2021-04-07;;suspendido;12;Sergio Pardo
+S2086;C1035;Videovigilancia;2022-10-05;;activo;24;Sergio Pardo
+S2087;C1036;Backup gestionado;2020-02-11;;activo;12;Ana Ruiz
+S2088;C1036;Conectividad fibra;2025-04-01;;suspendido;24;Ana Ruiz
+S2089;C1037;Telefonia IP;2022-11-03;;activo;24;Sergio Pardo
+S2090;C1037;Mantenimiento informatico;2021-10-02;;activo;12;Sergio Pardo
+S2091;C1038;Soporte puesto de trabajo;2020-07-29;;activo;12;Lucia Ferrer
+S2092;C1038;Backup gestionado;2025-06-18;;activo;36;Lucia Ferrer
+S2093;C1039;Telefonia IP;2020-10-29;;activo;12;Sergio Pardo
+S2094;C1039;Backup gestionado;2022-12-20;;activo;24;Sergio Pardo
+S2095;C1040;Ciberseguridad gestionada;2021-11-26;;activo;12;Lucia Ferrer
+S2096;C1041;Soporte puesto de trabajo;2024-04-09;;activo;12;Sergio Pardo
+S2097;C1041;Backup gestionado;2024-09-04;;activo;0;Sergio Pardo
+S2098;C1041;Ciberseguridad gestionada;2022-03-07;;activo;12;Sergio Pardo
+S2099;C1042;Soporte puesto de trabajo;2022-05-04;;activo;12;Ana Ruiz
+S2100;C1042;Backup gestionado;2024-11-12;;activo;24;Ana Ruiz
+S2101;C1042;Telefonia IP;2025-02-16;;activo;0;Ana Ruiz
+S2102;C1043;Ciberseguridad gestionada;2025-05-30;2025-09-15;baja;12;Ana Ruiz
+S2103;C1044;Telefonia IP;2020-07-06;;activo;24;Sergio Pardo
+S2104;C1044;Conectividad fibra;2025-03-04;;activo;36;Sergio Pardo
+S2105;C1045;Mantenimiento informatico;2023-10-26;;activo;36;Sergio Pardo
+S2106;C1045;Ciberseguridad gestionada;2021-12-09;2026-07-04;baja;24;Sergio Pardo
+S2107;C1045;Backup gestionado;2021-08-07;;activo;36;Sergio Pardo
+S2108;C1046;Telefonia IP;2023-01-02;;suspendido;36;Sergio Pardo
+S2109;C1046;Conectividad fibra;2023-10-09;;activo;36;Sergio Pardo
+S2110;C1047;Telefonia IP;2024-01-02;;activo;12;Ana Ruiz
+S2111;C1047;Videovigilancia;2024-10-02;;activo;12;Ana Ruiz
+S2112;C1047;Backup gestionado;2022-06-20;;activo;12;Ana Ruiz
+S2113;C1048;Soporte puesto de trabajo;2023-06-28;;activo;36;Lucia Ferrer
+S2114;C1048;Backup gestionado;2022-10-06;;activo;36;Lucia Ferrer
+S2115;C1049;Mantenimiento informatico;2025-11-01;;activo;12;Sergio Pardo
+S2116;C1050;Backup gestionado;2024-11-20;;activo;12;Lucia Ferrer
+S2117;C1050;Conectividad fibra;2024-12-14;;activo;24;Lucia Ferrer
+S2118;C1050;Mantenimiento informatico;2021-05-08;;activo;0;Lucia Ferrer
+S2119;C1050;Videovigilancia;2020-06-08;;activo;36;Lucia Ferrer
+S2120;C1051;Ciberseguridad gestionada;2023-03-18;;activo;24;Lucia Ferrer
+S2121;C1051;Conectividad fibra;2022-02-03;;activo;24;Lucia Ferrer
+S2122;C1051;Backup gestionado;2024-08-27;;activo;12;Lucia Ferrer
+S2123;C1052;Telefonia IP;2021-03-30;;activo;12;Sergio Pardo
+S2124;C1053;Videovigilancia;2023-09-29;;suspendido;12;Sergio Pardo
+S2125;C1053;Soporte puesto de trabajo;2020-07-10;;activo;12;Sergio Pardo
+S2126;C1053;Mantenimiento informatico;2024-12-27;;activo;24;Sergio Pardo
+S2127;C1054;Soporte puesto de trabajo;2024-07-05;;activo;24;Ana Ruiz
+S2128;C1054;Mantenimiento informatico;2022-12-21;;activo;24;Ana Ruiz
+S2129;C1055;Soporte puesto de trabajo;2020-12-25;;activo;12;Sergio Pardo
+S2018;C1006;Soporte puesto de trabajo;2025-06-01;;activo;36;Sergio Pardo
+S2130;C1003;Ciberseguridad gestionada;2021-05-17;;activo;24;Sergio Pardo
+S2131;C1003;Mantenimiento informatico;2024-10-31;;activo;24;Sergio Pardo
+S2132;C1003;Conectividad fibra;2021-05-17;;activo;24;Sergio Pardo

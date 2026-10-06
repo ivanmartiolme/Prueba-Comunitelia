@@ -1,0 +1,56 @@
+id_cliente;nombre;cif;poblacion;provincia;sector;comercial;fecha_alta_cliente
+C1001;Ayuntamiento de Tomelloso;G93567312;Tomelloso;Ciudad Real;Administracion publica;Sergio Pardo;2021-10-06
+C1002;Bodegas Tomelloso SL;A72102502;Tomelloso;Ciudad Real;Bodega;Ana Ruiz;2020-11-30
+C1003;Metalurgica Tomelloso SA;P97311477;Tomelloso;Ciudad Real;Industria;Sergio Pardo;2025-08-14
+C1004;Clinica Dental Tomelloso;A17748964;Tomelloso;Ciudad Real;Sanidad privada;Sergio Pardo;2021-01-12
+C1005;Clinica Dental Alcazar de San Juan;G55045464;Alcazar de San Juan;Ciudad Real;Sanidad privada;Sergio Pardo;2024-12-28
+C1006;  METALURGICA ALCAZAR DE SAN JUAN SA ;B34084660;Alcazar de San Juan;Ciudad Real;Industria;Sergio Pardo;2019-02-17
+C1007;Supermercados Alcazar de San Juan SL;B32444115;Alcazar de San Juan;Ciudad Real;Comercio;Lucia Ferrer;2020-10-27
+C1008;Ayuntamiento de Valdepenas;B85961766;Valdepenas;Ciudad Real;Administracion publica;Sergio Pardo;2018-01-03
+C1009;Asesoria Valdepenas SL;P86141950;Valdepenas;Ciudad Real;Servicios;Ana Ruiz;2022-10-25
+C1010;Metalurgica Valdepenas SA;A95541356;Valdepenas;Ciudad Real;Industria;Ana Ruiz;2022-01-21
+C1011;Talleres Valdepenas SA;G32698775;Valdepenas;Ciudad Real;Industria;Sergio Pardo;2019-06-12
+C1012;Supermercados Valdepenas SL;A18466384;Valdepenas;Ciudad Real;Comercio;Sergio Pardo;2024-04-09
+C1013;Supermercados Manzanares SL;A77733068;Manzanares;Ciudad Real;Comercio;Sergio Pardo;2020-04-30
+C1014;Metalurgica Manzanares SA;A47352844;Manzanares;Ciudad Real;Industria;Sergio Pardo;2025-05-03
+C1015;Asesoria Manzanares SL;A87996790;Manzanares;Ciudad Real;Servicios;Sergio Pardo;2023-02-09
+C1016;Ayuntamiento de Manzanares;A85401291;Manzanares;Ciudad Real;Administracion publica;Sergio Pardo;2021-10-25
+C1017;Talleres Daimiel SA;A31405986;Daimiel;Ciudad Real;Industria;Sergio Pardo;2021-10-07
+C1018;Colegio San Juan de Daimiel;A34856850;Daimiel;Ciudad Real;Educacion;Lucia Ferrer;2021-12-08
+C1019;Asesoria Daimiel SL;G44237890;Daimiel;Ciudad Real;Servicios;Sergio Pardo;2020-07-15
+C1020;Clinica Dental Miguelturra;G12631357;Miguelturra;Ciudad Real;Sanidad privada;Ana Ruiz;2018-03-21
+C1021;Colegio San Juan de Miguelturra;B37304728;Miguelturra;Ciudad Real;Educacion;Ana Ruiz;2024-09-18
+C1022;Metalurgica Miguelturra SA;A76377000;Miguelturra;Ciudad Real;Industria;Ana Ruiz;2022-03-03
+C1023;Colegio San Juan de Campo de Criptana;A29060465;Campo de Criptana;Ciudad Real;Educacion;Ana Ruiz;2022-09-12
+C1024;Talleres Campo de Criptana SA;P62197539;Campo de Criptana;Ciudad Real;Industria;Sergio Pardo;2022-11-03
+C1025;Metalurgica Campo de Criptana SA;A61133760;Campo de Criptana;Ciudad Real;Industria;Ana Ruiz;2022-04-11
+C1026;Metalurgica Socuellamos SA;P89409595;Socuellamos;Ciudad Real;Industria;Lucia Ferrer;2020-09-11
+C1027;Talleres Socuellamos SA;A25784508;Socuellamos;Ciudad Real;Industria;Sergio Pardo;2022-02-06
+C1028;Ayuntamiento de Socuellamos;G12541826;Socuellamos;Ciudad Real;Administracion publica;Ana Ruiz;2023-04-01
+C1029;Asesoria Socuellamos SL;B70511027;Socuellamos;Ciudad Real;Servicios;Sergio Pardo;2022-01-12
+C1030;Clinica Dental Villarrobledo;A84422695;Villarrobledo;Ciudad Real;Sanidad privada;Ana Ruiz;2024-02-29
+C1031;Bodegas Villarrobledo SL;A70650396;Villarrobledo;Ciudad Real;Bodega;Ana Ruiz;2020-06-27
+C1032;Supermercados Villarrobledo SL;P90166505;Villarrobledo;Ciudad Real;Comercio;Lucia Ferrer;2021-09-13
+C1033;Talleres Villarrobledo SA;A68971840;Villarrobledo;Ciudad Real;Industria;Sergio Pardo;2025-07-07
+C1034;Talleres La Solana SA;B63058821;La Solana;Ciudad Real;Industria;Ana Ruiz;2023-04-29
+C1035;Clinica Dental La Solana;G28410108;La Solana;Ciudad Real;Sanidad privada;Sergio Pardo;2018-10-08
+C1036;Supermercados La Solana SL;G61253040;La Solana;Ciudad Real;Comercio;Ana Ruiz;2023-06-05
+C1037;Talleres Membrilla SA;P23372808;Membrilla;Ciudad Real;Industria;Sergio Pardo;2024-01-24
+C1038;Bodegas Membrilla SL;P68562172;Membrilla;Ciudad Real;Bodega;Lucia Ferrer;2024-08-21
+C1039;Supermercados Membrilla SL;B87830746;Membrilla;Ciudad Real;Comercio;Sergio Pardo;2024-10-26
+C1040;Clinica Dental Membrilla;B42409523;Membrilla;Ciudad Real;Sanidad privada;Lucia Ferrer;2020-02-01
+C1041;Asesoria Argamasilla de Alba SL;B82256819;Argamasilla de Alba;Ciudad Real;Servicios;Sergio Pardo;2021-01-05
+C1042;Metalurgica Argamasilla de Alba SA;G24528841;Argamasilla de Alba;Ciudad Real;Industria;Ana Ruiz;2024-03-29
+C1043;Ayuntamiento de Argamasilla de Alba;A22104918;Argamasilla de Alba;Ciudad Real;Administracion publica;Ana Ruiz;2021-03-14
+C1044;Supermercados Herencia SL;P22860693;Herencia;Ciudad Real;Comercio;Sergio Pardo;2021-01-10
+C1045;Ayuntamiento de Herencia;G40256297;Herencia;Ciudad Real;Administracion publica;Sergio Pardo;2019-10-10
+C1046;Asesoria Herencia SL;A33991843;Herencia;Ciudad Real;Servicios;Sergio Pardo;2022-08-22
+C1047;Metalurgica Herencia SA;G74548163;Herencia;Ciudad Real;Industria;Ana Ruiz;2023-09-27
+C1048;Clinica Dental Herencia;A61337625;Herencia;Ciudad Real;Sanidad privada;Lucia Ferrer;2024-05-08
+C1049;Asesoria Puertollano SL;A39964206;Puertollano;Ciudad Real;Servicios;Sergio Pardo;2019-03-07
+C1050;Colegio San Juan de Puertollano;A99763521;Puertollano;Ciudad Real;Educacion;Lucia Ferrer;2020-11-04
+C1051;Ayuntamiento de Puertollano;G93362594;Puertollano;Ciudad Real;Administracion publica;Lucia Ferrer;2024-07-10
+C1052;Ayuntamiento de Bolanos de Calatrava;B19330423;Bolanos de Calatrava;Ciudad Real;Administracion publica;Sergio Pardo;2021-01-13
+C1053;Colegio San Juan de Bolanos de Calatrava;P83405438;Bolanos de Calatrava;Ciudad Real;Educacion;Sergio Pardo;2018-02-12
+C1054;Asesoria Bolanos de Calatrava SL;G37525056;Bolanos de Calatrava;Ciudad Real;Servicios;Ana Ruiz;2019-04-11
+C1055;Excmo. Ayto. Tomelloso;G93567312;Tomelloso;Ciudad Real;Administracion publica;Sergio Pardo;2019-03-04
